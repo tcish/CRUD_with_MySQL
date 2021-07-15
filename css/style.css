@@ -1,0 +1,14 @@
+.jumbotron{
+  background-image: linear-gradient(to right, #7ed56f, #28b485);
+  background-size: cover;
+}
+
+.form-group .error__border {
+  border: 3px solid red;
+}
+
+@media (min-width: 992px) {
+  .offset-lg-3 {
+    margin-left: 30%;
+  }
+}
